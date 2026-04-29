@@ -1,7 +1,7 @@
 # Creating-and-Uploading-Dataset
 Creating-and-Uploading-Dataset using Pandas
-Name- Srushti J. Nalawade
-PRN- 25070123157
+Name- Aadi Havele
+PRN- 25070123001
 Batch- A1
 Aim
 The goal of this experiment is to construct a custom dataset within Python and utilize the Pandas library to execute essential data inspection tasks, including evaluating its size, dimensions, and statistical summary.
